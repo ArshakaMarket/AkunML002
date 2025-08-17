@@ -23,11 +23,15 @@
 </tr>
 <tr>
 <td align="center"><strong>Diamond</strong></td>
-<td align="center">💎 5,988</td>
+<td align="center">💎 113</td>
 </tr>
 <tr>
 <td align="center"><strong>Battle Point</strong></td>
 <td align="center">BP 567,388</td>
+</tr>
+<tr>
+<td align="center"><strong>Ticket</strong></td>
+<td align="center">5,988</td>
 </tr>
 </table>
 📊 Statistik Koleksi
