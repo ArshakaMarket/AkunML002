@@ -1,4 +1,3 @@
-
 <p align="center">
 <h1><strong>Informasi Akun: DHaqi</strong></h1>
 </p>
@@ -55,965 +54,965 @@
 <details>
 <summary><strong>👑 Supreme (2 Skins)</strong></summary>
 
-    Obsidian Blade (Alucard) <br>
+    Obsidian Blade (Alucard)
 
-    Galactic Vanquisher (Freya) <br>
+    Galactic Vanquisher (Freya)
 
 </details>
 
 <details>
 <summary><strong>🌟 Grand (8 Skins)</strong></summary>
 
-    Leona (Karina) <br>
+    Leona (Karina)
 
-    Grimlock (Roger) <br>
+    Grimlock (Roger)
 
-    Cosmic Blaze (Claude) <br>
+    Cosmic Blaze (Claude)
 
-    Bumblebee (X.Borg) <br>
+    Bumblebee (X.Borg)
 
-    Cosmic Dragon (Yu Zhong) <br>
+    Cosmic Dragon (Yu Zhong)
 
-    Stellar Brilliance (Beatrix) <br>
+    Stellar Brilliance (Beatrix)
 
-    Fluffy Dream (Floryn) <br>
+    Fluffy Dream (Floryn)
 
-    Kurapika (Julian) <br>
+    Kurapika (Julian)
 
 </details>
 
 <details>
 <summary><strong>✨ Exquisite (8 Skins)</strong></summary>
 
-    Experiment 21 (Hayabusa) <br>
+    Experiment 21 (Hayabusa)
 
-    War Angel (Freya) <br>
+    War Angel (Freya)
 
-    No.1 Controller (Gord) <br>
+    No.1 Controller (Gord)
 
-    Warrioress Paragon (Natalia) <br>
+    Warrioress Paragon (Natalia)
 
-    Water Lily (Kagura) <br>
+    Water Lily (Kagura)
 
-    Neon Lightwheel (Karrie) <br>
+    Neon Lightwheel (Karrie)
 
-    Hawk-eyed Sniper (Lesley) <br>
+    Hawk-eyed Sniper (Lesley)
 
-    Thunder Flash (Selena) <br>
+    Thunder Flash (Selena)
 
 </details>
 
 <details>
 <summary><strong>💎 Deluxe (Epic) (72 Skins)</strong></summary>
 
-    S.A.B.E.R. Regulator (Saber) <br>
+    S.A.B.E.R. Regulator (Saber)
 
-    Darkest Temptress (Alice) <br>
+    Darkest Temptress (Alice)
 
-    Mecha Baby (Nana) <br>
+    Mecha Baby (Nana)
 
-    Lightborn - Defender (Tigreal) <br>
+    Lightborn - Defender (Tigreal)
 
-    Gemini - Halo (Karina) <br>
+    Gemini - Halo (Karina)
 
-    Marvelous Maestro (Akai) <br>
+    Marvelous Maestro (Akai)
 
-    Blazing Axe (Franco) <br>
+    Blazing Axe (Franco)
 
-    Soul Devourer (Bane) <br>
+    Soul Devourer (Bane)
 
-    Dragon's Maw (Clint) <br>
+    Dragon's Maw (Clint)
 
-    Flower Fairy (Rafaela) <br>
+    Flower Fairy (Rafaela)
 
-    S.A.B.E.R. Savior (Rafaela) <br>
+    S.A.B.E.R. Savior (Rafaela)
 
-    Glorious General (Zilong) <br>
+    Glorious General (Zilong)
 
-    Blazing Gun (Layla) <br>
+    Blazing Gun (Layla)
 
-    Taurus (Minotaur) <br>
+    Taurus (Minotaur)
 
-    Raven Shogun (Freya) <br>
+    Raven Shogun (Freya)
 
-    ECHO (Chou) <br>
+    ECHO (Chou)
 
-    Fleet Warden (Yi Sun-shin) <br>
+    Fleet Warden (Yi Sun-shin)
 
-    Blood Spear (Moskov) <br>
+    Blood Spear (Moskov)
 
-    S.A.B.E.R. Automata (Johnson) <br>
+    S.A.B.E.R. Automata (Johnson)
 
-    S.A.B.E.R. Enforcer (Cyclops) <br>
+    S.A.B.E.R. Enforcer (Cyclops)
 
-    Rattan Dragon (Estes) <br>
+    Rattan Dragon (Estes)
 
-    SPARKLE Estes (Estes) <br>
+    SPARKLE Estes (Estes)
 
-    Aries (Hilda) <br>
+    Aries (Hilda)
 
-    Aquarius (Aurora) <br>
+    Aquarius (Aurora)
 
-    Phantom Hunter (Roger) <br>
+    Phantom Hunter (Roger)
 
-    Cyborg Werewolf (Roger) <br>
+    Cyborg Werewolf (Roger)
 
-    Phantom Ranger (Roger) <br>
+    Phantom Ranger (Roger)
 
-    Great Inventor (Harley) <br>
+    Great Inventor (Harley)
 
-    Hellfire (Irithiel) <br>
+    Hellfire (Irithiel)
 
-    Sagittarius (Irithiel) <br>
+    Sagittarius (Irithiel)
 
-    V.E.N.O.M. Monitor Lizard (Grock) <br>
+    V.E.N.O.M. Monitor Lizard (Grock)
 
-    Codename: Rhino (Grock) <br>
+    Codename: Rhino (Grock)
 
-    Virgo (Odette) <br>
+    Virgo (Odette)
 
-    Pisces (Lancelot) <br>
+    Pisces (Lancelot)
 
-    Floral Knight (Lancelot) <br>
+    Floral Knight (Lancelot)
 
-    Cancer (Zhask) <br>
+    Cancer (Zhask)
 
-    Scorpio (Helcurt) <br>
+    Scorpio (Helcurt)
 
-    Hierophant (Pharsa) <br>
+    Hierophant (Pharsa)
 
-    Meowkin Hunter (Lesley) <br>
+    Meowkin Hunter (Lesley)
 
-    Duchess of Tides (Lesley) <br>
+    Duchess of Tides (Lesley)
 
-    Draconic Flame (Valir) <br>
+    Draconic Flame (Valir)
 
-    Capricorn (Martis) <br>
+    Capricorn (Martis)
 
-    Celestial Bastion (Uranus) <br>
+    Celestial Bastion (Uranus)
 
-    V.E.N.O.M. Nephila (Hanabi) <br>
+    V.E.N.O.M. Nephila (Hanabi)
 
-    Vine Cradle (Chang'e) <br>
+    Vine Cradle (Chang'e)
 
-    Virus (Selena) <br>
+    Virus (Selena)
 
-    Gemini - Shadow (Selena) <br>
+    Gemini - Shadow (Selena)
 
-    Blazing Force (Aldous) <br>
+    Blazing Force (Aldous)
 
-    Blazing Trace (Claude) <br>
+    Blazing Trace (Claude)
 
-    Challenger's Spark (Claude) <br>
+    Challenger's Spark (Claude)
 
-    Gaara (Vale) <br>
+    Gaara (Vale)
 
-    Libra (Lunox) <br>
+    Libra (Lunox)
 
-    Dawn Revelation (Lunox) <br>
+    Dawn Revelation (Lunox)
 
-    Frost Wing (Kimmy) <br>
+    Frost Wing (Kimmy)
 
-    Infernal Magister (Faramis) <br>
+    Infernal Magister (Faramis)
 
-    Leo (Badang) <br>
+    Leo (Badang)
 
-    Pegasus Seiya (Badang) <br>
+    Pegasus Seiya (Badang)
 
-    Blazing Shadow (Esmeralda) <br>
+    Blazing Shadow (Esmeralda)
 
-    Night Shade (Ling) <br>
+    Night Shade (Ling)
 
-    M-World Ling (Ling) <br>
+    M-World Ling (Ling)
 
-    Dragon Armor (Masha) <br>
+    Dragon Armor (Masha)
 
-    Meowkin Warden (Silvanna) <br>
+    Meowkin Warden (Silvanna)
 
-    Astral Arcana (Carmilla) <br>
+    Astral Arcana (Carmilla)
 
-    Rune Sentinel (Atlas) <br>
+    Rune Sentinel (Atlas)
 
-    Dragon's Shade (Yu Zhong) <br>
+    Dragon's Shade (Yu Zhong)
 
-    Phantom Mirage (Benedetta) <br>
+    Phantom Mirage (Benedetta)
 
-    APBren (Brody) <br>
+    APBren (Brody)
 
-    Light Chaser (Beatrix) <br>
+    Light Chaser (Beatrix)
 
-    Archon of Knowledge (Natan) <br>
+    Archon of Knowledge (Natan)
 
-    Dark Nexus (Valentina) <br>
+    Dark Nexus (Valentina)
 
-    SPARKLE Melissa (Melissa) <br>
+    SPARKLE Melissa (Melissa)
 
-    SPARKLE Fredrinn (Fredrinn) <br>
+    SPARKLE Fredrinn (Fredrinn)
 
 </details>
 
 <details>
 <summary><strong>💥 Exceptional (Special) (110 Skins)</strong></summary>
 
-    Captain Thorns (Miya) <br>
+    Captain Thorns (Miya)
 
-    Moon Priestess (Miya) <br>
+    Moon Priestess (Miya)
 
-    Savage Pointguard (Balmond) <br>
+    Savage Pointguard (Balmond)
 
-    Iron Hound (Saber) <br>
+    Iron Hound (Saber)
 
-    Divine Owl (Alice) <br>
+    Divine Owl (Alice)
 
-    Gold Baron (Tigreal) <br>
+    Gold Baron (Tigreal)
 
-    Viscount (Alucard) <br>
+    Viscount (Alucard)
 
-    Demon's Bane (Alucard) <br>
+    Demon's Bane (Alucard)
 
-    Akazonae Samurai (Akai) <br>
+    Akazonae Samurai (Akai)
 
-    Apocalypse (Franco) <br>
+    Apocalypse (Franco)
 
-    Best DJ (Bruno) <br>
+    Best DJ (Bruno)
 
-    Neymar Jr (Bruno) <br>
+    Neymar Jr (Bruno)
 
-    Rock and Roll (Clint) <br>
+    Rock and Roll (Clint)
 
-    Badminton Champion (Clint) <br>
+    Badminton Champion (Clint)
 
-    Seraphic Selfie (Rafaela) <br>
+    Seraphic Selfie (Rafaela)
 
-    Christmas Carnival (Eudora) <br>
+    Christmas Carnival (Eudora)
 
-    Eastern Warrior (Zilong) <br>
+    Eastern Warrior (Zilong)
 
-    Royal Cavalry (Fanny) <br>
+    Royal Cavalry (Fanny)
 
-    Bunny Babe (Layla) <br>
+    Bunny Babe (Layla)
 
-    Twilight Waltz (Layla) <br>
+    Twilight Waltz (Layla)
 
-    Genki Slam (Lolita) <br>
+    Genki Slam (Lolita)
 
-    Astro Mallet (Lolita) <br>
+    Astro Mallet (Lolita)
 
-    Dragon Hunter (Freya) <br>
+    Dragon Hunter (Freya)
 
-    Phantom Dancer (Natalia) <br>
+    Phantom Dancer (Natalia)
 
-    Cyber Spectre (Natalia) <br>
+    Cyber Spectre (Natalia)
 
-    Summer Festival (Kagura) <br>
+    Summer Festival (Kagura)
 
-    Rock Star (Sun) <br>
+    Rock Star (Sun)
 
-    Street Legend (Sun) <br>
+    Street Legend (Sun)
 
-    Crimson Warrior (Alpha) <br>
+    Crimson Warrior (Alpha)
 
-    Star Enforcer (Alpha) <br>
+    Star Enforcer (Alpha)
 
-    Crescent Scimitar (Ruby) <br>
+    Crescent Scimitar (Ruby)
 
-    Neon Edge (Ruby) <br>
+    Neon Edge (Ruby)
 
-    Azure Sentry (Yi Sun-shin) <br>
+    Azure Sentry (Yi Sun-shin)
 
-    Snake Eye Commander (Moskov) <br>
+    Snake Eye Commander (Moskov)
 
-    Violet Spear (Moskov) <br>
+    Violet Spear (Moskov)
 
-    Death Ride (Johnson) <br>
+    Death Ride (Johnson)
 
-    Starblazer (Johnson) <br>
+    Starblazer (Johnson)
 
-    Crow Bishop (Estes) <br>
+    Crow Bishop (Estes)
 
-    Arcane Magistrate (Estes) <br>
+    Arcane Magistrate (Estes)
 
-    Heartbreak Empress (Aurora) <br>
+    Heartbreak Empress (Aurora)
 
-    Foxy Lady (Aurora) <br>
+    Foxy Lady (Aurora)
 
-    Special Force (Lapu-Lapu) <br>
+    Special Force (Lapu-Lapu)
 
-    Anubis (Roger) <br>
+    Anubis (Roger)
 
-    Nutcracker Monarch (Gatotkaca) <br>
+    Nutcracker Monarch (Gatotkaca)
 
-    Referee (Harley) <br>
+    Referee ( Harley)
 
-    Pulsar Prodigy (Harley) <br>
+    Pulsar Prodigy (Harley)
 
-    Checkered Knight (Irithel) <br>
+    Checkered Knight (Irithel)
 
-    Wasteland Psycho (Grock) <br>
+    Wasteland Psycho (Grock)
 
-    Dark Draconic (Argus) <br>
+    Dark Draconic (Argus)
 
-    Butterfly Goddess (Odette) <br>
+    Butterfly Goddess (Odette)
 
-    Wisdom of the Stars (Odette) <br>
+    Wisdom of the Stars (Odette)
 
-    Christmas Carnival (Lancelot) <br>
+    Christmas Carnival (Lancelot)
 
-    Dark Earl (Lancelot) <br>
+    Dark Earl (Lancelot)
 
-    Constellation (Diggie) <br>
+    Constellation (Diggie)
 
-    Phantom Seer (Hylos) <br>
+    Phantom Seer (Hylos)
 
-    Extraterrestrial (Zhashk) <br>
+    Extraterrestrial (Zhashk)
 
-    Death's Shadow (Zhashk) <br>
+    Death's Shadow (Zhashk)
 
-    Evolved Predator (Helcurt) <br>
+    Evolved Predator (Helcurt)
 
-    Dream Prowler (Helcurt) <br>
+    Dream Prowler (Helcurt)
 
-    Cheergunner (Lesley) <br>
+    Cheergunner (Lesley)
 
-    Space Explorer (Jawhead) <br>
+    Space Explorer (Jawhead)
 
-    The Nutcracker (Jawhead) <br>
+    The Nutcracker (Jawhead)
 
-    Shanghai Maiden (Angela) <br>
+    Shanghai Maiden (Angela)
 
-    Dangerous Liaison (Gusion) <br>
+    Dangerous Liaison (Gusion)
 
-    Desert Spider (Gusion) <br>
+    Desert Spider (Gusion)
 
-    Searing Maw (Martis) <br>
+    Searing Maw (Martis)
 
-    Floral Elfo (Chang'e) <br>
+    Floral Elfo (Chang'e)
 
-    Kaminari (Kaja) <br>
+    Kaminari (Kaja)
 
-    Double Identity (Selena) <br>
+    Double Identity (Selena)
 
-    The Insentient (Aldous) <br>
+    The Insentient (Aldous)
 
-    Plunderous Pirate (Claude) <br>
+    Plunderous Pirate (Claude)
 
-    Earth's Mightiest (Claude) <br>
+    Earth's Mightiest (Claude)
 
-    Frostborn Paladin (Leomord) <br>
+    Frostborn Paladin (Leomord)
 
-    Triumph - Eagle (Leomord) <br>
+    Triumph - Eagle (Leomord)
 
-    Insidious Tutor (Hanzo) <br>
+    Insidious Tutor (Hanzo)
 
-    Emerald Guardian (Belerick) <br>
+    Emerald Guardian (Belerick)
 
-    Rising Nova (Kimmy) <br>
+    Rising Nova (Kimmy)
 
-    Abyssal Reaper (Thamuz) <br>
+    Abyssal Reaper (Thamuz)
 
-    Sanctified Flame (Thamuz) <br>
+    Sanctified Flame (Thamuz)
 
-    Fashion Expert (Harith) <br>
+    Fashion Expert (Harith)
 
-    Crimson Lion (Ministhar) <br>
+    Crimson Lion (Ministhar)
 
-    Summer Sparks (Faramis) <br>
+    Summer Sparks (Faramis)
 
-    Susanoo (Badang) <br>
+    Susanoo (Badang)
 
-    Amethyst Dance (Guinevere) <br>
+    Amethyst Dance (Guinevere)
 
-    Sakura Wishes (Guinevere) <br>
+    Sakura Wishes (Guinevere)
 
-    Astral Muse (Esmeralda) <br>
+    Astral Muse (Esmeralda)
 
-    Ruins Scavenger (Dyrroth) <br>
+    Ruins Scavenger (Dyrroth)
 
-    Future Star (Lylia) <br>
+    Future Star (Lylia)
 
-    Magitech Arsenal (Lylia) <br>
+    Magitech Arsenal (Lylia)
 
-    Bar-tender (Baxia) <br>
+    Bar-tender (Baxia)
 
-    Dauntless Shield (Baxia) <br>
+    Dauntless Shield (Baxia)
 
-    Classroom Charm (Silvanna) <br>
+    Classroom Charm (Silvanna)
 
-    Proto Hunter (Popol & Kupa) <br>
+    Proto Hunter (Popol & Kupa)
 
-    Moonblade (Benedetta) <br>
+    Moonblade (Benedetta)
 
-    Lethal Fang (Brody) <br>
+    Lethal Fang (Brody)
 
-    Underground Boxer (Paquito) <br>
+    Underground Boxer (Paquito)
 
-    Jellyman (Gloo) <br>
+    Jellyman (Gloo)
 
-    Temporal Vortex (Natan) <br>
+    Temporal Vortex (Natan)
 
-    War Lion (Aulus) <br>
+    War Lion (Aulus)
 
-    Cyber Assassin (Aamon) <br>
+    Cyber Assassin (Aamon)
 
-    Cyber Agent (Valentina) <br>
+    Cyber Agent (Valentina)
 
-    Ancient Warden (Edith) <br>
+    Ancient Warden (Edith)
 
-    Eternal Guardian (Yin) <br>
+    Eternal Guardian (Yin)
 
-    Nightwalker (Melissa) <br>
+    Nightwalker (Melissa)
 
-    Hardlight Artificer (Xavier) <br>
+    Hardlight Artificer (Xavier)
 
-    Exoscout Scout (Joy) <br>
+    Exoscout Scout (Joy)
 
-    Fury of the Deep (Arlott) <br>
+    Fury of the Deep (Arlott)
 
-    Fashion Mogul (Nolan) <br>
+    Fashion Mogul (Nolan)
 
-    Circus Revere (Cici) <br>
+    Circus Revere (Cici)
 
-    Emberwisp Mystic (Zhuxin) <br>
+    Emberwisp Mystic (Zhuxin)
 
 </details>
 
 <details>
 <summary><strong>🔷 Common (Elite) (226 Skins)</strong></summary>
 
-    Burning Bow (Miya) <br>
+    Burning Bow (Miya)
 
-    Honor (Miya) <br>
+    Honor (Miya)
 
-    Jungle Ranger (Miya) <br>
+    Jungle Ranger (Miya)
 
-    Power Source (Balmond) <br>
+    Power Source (Balmond)
 
-    Ghoul's Fury (Balmond) <br>
+    Ghoul's Fury (Balmond)
 
-    Savage Hunter (Saber) <br>
+    Savage Hunter (Saber)
 
-    Golden Flash (Saber) <br>
+    Golden Flash (Saber)
 
-    Silver Edge (Saber) <br>
+    Silver Edge (Saber)
 
-    Spirit Woman (Alice) <br>
+    Spirit Woman (Alice)
 
-    Jade Empress (Alice) <br>
+    Jade Empress (Alice)
 
-    Graveyard Party (Nana) <br>
+    Graveyard Party (Nana)
 
-    Dark Guardian (Tigreal) <br>
+    Dark Guardian (Tigreal)
 
-    Fallen Guard (Tigreal) <br>
+    Fallen Guard (Tigreal)
 
-    Wrymslayer (Tigreal) <br>
+    Wrymslayer (Tigreal)
 
-    Lone Hero (Alucard) <br>
+    Lone Hero (Alucard)
 
-    Fiery Inferno (Alucard) <br>
+    Fiery Inferno (Alucard)
 
-    Empire Agent (Alucard) <br>
+    Empire Agent (Alucard)
 
-    Phantom Blade (Karina) <br>
+    Phantom Blade (Karina)
 
-    Blood Moon (Karina) <br>
+    Blood Moon (Karina)
 
-    Monk (Akai) <br>
+    Monk (Akai)
 
-    Stream Recluse (Akai) <br>
+    Stream Recluse (Akai)
 
-    Street Enforcer (Akai) <br>
+    Street Enforcer (Akai)
 
-    Locomotive (Franco) <br>
+    Locomotive (Franco)
 
-    Bone Crusher (Franco) <br>
+    Bone Crusher (Franco)
 
-    Deep Sea Monster (Bane) <br>
+    Deep Sea Monster (Bane)
 
-    Warlord (Bane) <br>
+    Warlord (Bane)
 
-    Street Football (Bruno) <br>
+    Street Football (Bruno)
 
-    Witch Hunter (Clint) <br>
+    Witch Hunter (Clint)
 
-    Fertility Goddess (Rafaela) <br>
+    Fertility Goddess (Rafaela)
 
-    Star Chaser (Rafaela) <br>
+    Star Chaser (Rafaela)
 
-    Flame Red Lips (Eudora) <br>
+    Flame Red Lips (Eudora)
 
-    Elite Warrior (Zilong) <br>
+    Elite Warrior (Zilong)
 
-    Blazing Lancer (Zilong) <br>
+    Blazing Lancer (Zilong)
 
-    Loyal Spear (Zilong) <br>
+    Loyal Spear (Zilong)
 
-    Punk Princess (Fanny) <br>
+    Punk Princess (Fanny)
 
-    Imperial Warrior (Fanny) <br>
+    Imperial Warrior (Fanny)
 
-    Green Flash (Layla) <br>
+    Green Flash (Layla)
 
-    Classic Malefic Gunner (Layla) <br>
+    Classic Malefic Gunner (Layla)
 
-    Bursting Yama (Minotaur) <br>
+    Bursting Yama (Minotaur)
 
-    Orbiter (Minotaur) <br>
+    Orbiter (Minotaur)
 
-    Sacred Hammer (Minotaur) <br>
+    Sacred Hammer (Minotaur)
 
-    Soldier in Training (Lolita) <br>
+    Soldier in Training (Lolita)
 
-    Special Op (Lolita) <br>
+    Special Op (Lolita)
 
-    Spacetime Shadow (Hayabusa) <br>
+    Spacetime Shadow (Hayabusa)
 
-    Techie Ninja (Hayabusa) <br>
+    Techie Ninja (Hayabusa)
 
-    Dark Rose (Freya) <br>
+    Dark Rose (Freya)
 
-    Gladiator (Freya) <br>
+    Gladiator (Freya)
 
-    Professor of Hell (Gord) <br>
+    Professor of Hell (Gord)
 
-    New Baron (Gord) <br>
+    New Baron (Gord)
 
-    Glass Blade (Natalia) <br>
+    Glass Blade (Natalia)
 
-    Deadly Mamba (Natalia) <br>
+    Deadly Mamba (Natalia)
 
-    Flower Season (Kagura) <br>
+    Flower Season (Kagura)
 
-    Hip-hop Boy (Chou) <br>
+    Hip-hop Boy (Chou)
 
-    King of Muay Thai (Chou) <br>
+    King of Muay Thai (Chou)
 
-    Celestial Outlaw (Sun) <br>
+    Celestial Outlaw (Sun)
 
-    Fierce Dragon (Alpha) <br>
+    Fierce Dragon (Alpha)
 
-    Sea Gladiator (Alpha) <br>
+    Sea Gladiator (Alpha)
 
-    Cat Girl (Ruby) <br>
+    Cat Girl (Ruby)
 
-    Edelweiss (Ruby) <br>
+    Edelweiss (Ruby)
 
-    Major General (Yi Sun-shin) <br>
+    Major General (Yi Sun-shin)
 
-    Apocalypse Agent (Yi Sun-shin) <br>
+    Apocalypse Agent (Yi Sun-shin)
 
-    Rogulish Ranger (Yi Sun-shin) <br>
+    Rogulish Ranger (Yi Sun-shin)
 
-    Surging Torrent (Yi Sun-shin) <br>
+    Surging Torrent (Yi Sun-shin)
 
-    Spear of Bone Dragon (Moskov) <br>
+    Spear of Bone Dragon (Moskov)
 
-    Yasha (Moskov) <br>
+    Yasha (Moskov)
 
-    Fire Chief (Johnson) <br>
+    Fire Chief (Johnson)
 
-    Jeepney Racer (Johnson) <br>
+    Jeepney Racer (Johnson)
 
-    Exorcist (Cyclops) <br>
+    Exorcist (Cyclops)
 
-    Super Adventurer (Cyclops) <br>
+    Super Adventurer (Cyclops)
 
-    Zombie Bambino (Cyclops) <br>
+    Zombie Bambino (Cyclops)
 
-    Holy Priest (Estes) <br>
+    Holy Priest (Estes)
 
-    White Crane (Estes) <br>
+    White Crane (Estes)
 
-    Power of Wildness (Hilda) <br>
+    Power of Wildness (Hilda)
 
-    Flower of the Wastes (Hilda) <br>
+    Flower of the Wastes (Hilda)
 
-    Nature's Throne (Aurora) <br>
+    Nature's Throne (Aurora)
 
-    Ancestral Blade (Lapu-Lapu) <br>
+    Ancestral Blade (Lapu-Lapu)
 
-    Imperial Champion (Lapu-Lapu) <br>
+    Imperial Champion (Lapu-Lapu)
 
-    Son of the Wild (Lapu-Lapu) <br>
+    Son of the Wild (Lapu-Lapu)
 
-    Lucent Beacon (Vexana) <br>
+    Lucent Beacon (Vexana)
 
-    Cursed Shackle (Vexana) <br>
+    Cursed Shackle (Vexana)
 
-    Dark Gent (Roger) <br>
+    Dark Gent (Roger)
 
-    Rising Star (Karrie) <br>
+    Rising Star (Karrie)
 
-    Bladed Mantis (Karrie) <br>
+    Bladed Mantis (Karrie)
 
-    Mighty Guardian (Gatotkaca) <br>
+    Mighty Guardian (Gatotkaca)
 
-    Naughty Joker (Harley) <br>
+    Naughty Joker (Harley)
 
-    Silver Cyclone (Irithel) <br>
+    Silver Cyclone (Irithel)
 
-    Grave Guardian (Grock) <br>
+    Grave Guardian (Grock)
 
-    Ancient Totem (Grock) <br>
+    Ancient Totem (Grock)
 
-    Light of Dawn (Argus) <br>
+    Light of Dawn (Argus)
 
-    Catastrophe (Argus) <br>
+    Catastrophe (Argus)
 
-    Winged Nightmare (Argus) <br>
+    Winged Nightmare (Argus)
 
-    Black Swan (Odette) <br>
+    Black Swan (Odette)
 
-    Masked Knight (Lancelot) <br>
+    Masked Knight (Lancelot)
 
-    Marquess of Blades (Lancelot) <br>
+    Marquess of Blades (Lancelot)
 
-    Pigeoneer (Diggie) <br>
+    Pigeoneer (Diggie)
 
-    Circus Clown (Diggie) <br>
+    Circus Clown (Diggie)
 
-    Underwood Steward (Diggie) <br>
+    Underwood Steward (Diggie)
 
-    Abyssal Shaman (Hylos) <br>
+    Abyssal Shaman (Hylos)
 
-    Jungle Watcher (Hylos) <br>
+    Jungle Watcher (Hylos)
 
-    Crystalized Predator (Zhask) <br>
+    Crystalized Predator (Zhask)
 
-    Exoracial Executer (Helcurt) <br>
+    Exoracial Executer (Helcurt)
 
-    Ice Scythe (Helcurt) <br>
+    Ice Scythe (Helcurt)
 
-    Wings of Heaven (Pharsa) <br>
+    Wings of Heaven (Pharsa)
 
-    Peafowl's Dance (Pharsa) <br>
+    Peafowl's Dance (Pharsa)
 
-    Indigo Aviatrix (Pharsa) <br>
+    Indigo Aviatrix (Pharsa)
 
-    Enchanting Witch (Pharsa) <br>
+    Enchanting Witch (Pharsa)
 
-    Royal Musketeer (Lesley) <br>
+    Royal Musketeer (Lesley)
 
-    General Rosa (Lesley) <br>
+    General Rosa (Lesley)
 
-    Girl Scout (Jawhead) <br>
+    Girl Scout (Jawhead)
 
-    Victory Loader (Jawhead) <br>
+    Victory Loader (Jawhead)
 
-    Dove & Love (Angela) <br>
+    Dove & Love (Angela)
 
-    Moonlight Sonata (Gusion) <br>
+    Moonlight Sonata (Gusion)
 
-    Hairstylist (Gusion) <br>
+    Hairstylist (Gusion)
 
-    Pale Flame (Valir) <br>
+    Pale Flame (Valir)
 
-    Arcane Seeker (Valir) <br>
+    Arcane Seeker (Valir)
 
-    Ancient Soul (Uranus) <br>
+    Ancient Soul (Uranus)
 
-    Earthen Relic (Uranus) <br>
+    Earthen Relic (Uranus)
 
-    Resplendent Iris (Hanabi) <br>
+    Resplendent Iris (Hanabi)
 
-    Moonstruck (Chang'e) <br>
+    Moonstruck (Chang'e)
 
-    Crimson Moon (Chang'e) <br>
+    Crimson Moon (Chang'e)
 
-    Commandment (Kaja) <br>
+    Commandment (Kaja)
 
-    Horror Whiplash (Kaja) <br>
+    Horror Whiplash (Kaja)
 
-    Crow Magician (Kaja) <br>
+    Crow Magician (Kaja)
 
-    Wasp Queen (Selena) <br>
+    Wasp Queen (Selena)
 
-    Red Mantle (Aldous) <br>
+    Red Mantle (Aldous)
 
-    Death (Aldous) <br>
+    Death (Aldous)
 
-    Golden Bullet (Claude) <br>
+    Golden Bullet (Claude)
 
-    Cerulean Winds (Vale) <br>
+    Cerulean Winds (Vale)
 
-    Kannagi (Vale) <br>
+    Kannagi (Vale)
 
-    Hell Knight (Leomord) <br>
+    Hell Knight (Leomord)
 
-    Bloody Mary (Lunox) <br>
+    Bloody Mary (Lunox)
 
-    Cosmic Harmony (Lunox) <br>
+    Cosmic Harmony (Lunox)
 
-    Nature's Harmony (Lunox) <br>
+    Nature's Harmony (Lunox)
 
-    The Pale Phantom (Hanzo) <br>
+    The Pale Phantom (Hanzo)
 
-    Undead King (Hanzo) <br>
+    Undead King (Hanzo)
 
-    Tiger's Claw (Belerick) <br>
+    Tiger's Claw (Belerick)
 
-    Steam Researcher (Kimmy) <br>
+    Steam Researcher (Kimmy)
 
-    High Seas Cadet (Kimmy) <br>
+    High Seas Cadet (Kimmy)
 
-    Lord of Wrath (Thamuz) <br>
+    Lord of Wrath (Thamuz)
 
-    Liquid Fire (Thamuz) <br>
+    Liquid Fire (Thamuz)
 
-    Savannah Cat (Harith) <br>
+    Savannah Cat (Harith)
 
-    Stardust (Harith) <br>
+    Stardust (Harith)
 
-    King of War (Ministhar) <br>
+    King of War (Ministhar)
 
-    Gilded King (Ministhar) <br>
+    Gilded King (Ministhar)
 
-    Symbol of Valor (Ministhar) <br>
+    Symbol of Valor (Ministhar)
 
-    Atlantean Princess (Kadita) <br>
+    Atlantean Princess (Kadita)
 
-    Dark Necro (Faramis) <br>
+    Dark Necro (Faramis)
 
-    Enigmatic Wayfarer (Faramis) <br>
+    Enigmatic Wayfarer (Faramis)
 
-    Ironfists (Badang) <br>
+    Ironfists (Badang)
 
-    Desert Owl (Khufra) <br>
+    Desert Owl (Khufra)
 
-    Apophis (Khufra) <br>
+    Apophis (Khufra)
 
-    Iron Hook (Khufra) <br>
+    Iron Hook (Khufra)
 
-    Bardic Whisper (Granger) <br>
+    Bardic Whisper (Granger)
 
-    Doomduelist Terminator (Granger) <br>
+    Doomduelist Terminator (Granger)
 
-    Fleur de Bleau (Guinevere) <br>
+    Fleur de Bleau (Guinevere)
 
-    Ruddy Dusk (Esmeralda) <br>
+    Ruddy Dusk (Esmeralda)
 
-    Abyss Guard (Terizla) <br>
+    Abyss Guard (Terizla)
 
-    Flare (Terizla) <br>
+    Flare (Terizla)
 
-    Rustwreck (Terizla) <br>
+    Rustwreck (Terizla)
 
-    Blue Storm (Terizla) <br>
+    Blue Storm (Terizla)
 
-    Pecados Rioter (X.Borg) <br>
+    Pecados Rioter (X.Borg)
 
-    Fiery Dance (Ling) <br>
+    Fiery Dance (Ling)
 
-    Scalebore (Dyrroth) <br>
+    Scalebore (Dyrroth)
 
-    School Idol (Lylia) <br>
+    School Idol (Lylia)
 
-    Star Student (Lylia) <br>
+    Star Student (Lylia)
 
-    Wild Totem (Baxia) <br>
+    Wild Totem (Baxia)
 
-    Badass Roller (Baxia) <br>
+    Badass Roller (Baxia)
 
-    Black Tortoise (Baxia) <br>
+    Black Tortoise (Baxia)
 
-    Winter Guard (Masha) <br>
+    Winter Guard (Masha)
 
-    Spirited Gauntlet (Masha) <br>
+    Spirited Gauntlet (Masha)
 
-    Darling Star (Wanwan) <br>
+    Darling Star (Wanwan)
 
-    Shoujo Commander (Wanwan) <br>
+    Shoujo Commander (Wanwan)
 
-    Hallowed Lance (Silvanna) <br>
+    Hallowed Lance (Silvanna)
 
-    Future Cop (Silvanna) <br>
+    Future Cop (Silvanna)
 
-    Verdant Lancer (Silvanna) <br>
+    Verdant Lancer (Silvanna)
 
-    Wisteria Count (Cecilion) <br>
+    Wisteria Count (Cecilion)
 
-    The Illusionist (Cecilion) <br>
+    The Illusionist (Cecilion)
 
-    Wisteria Countess (Carmilla) <br>
+    Wisteria Countess (Carmilla)
 
-    Magician Girl (Carmilla) <br>
+    Magician Girl (Carmilla)
 
-    Reactor Core (Atlas) <br>
+    Reactor Core (Atlas)
 
-    Fuel Turbine (Atlas) <br>
+    Fuel Turbine (Atlas)
 
-    Tribal Howl (Popol & Kupa) <br>
+    Tribal Howl (Popol & Kupa)
 
-    Emerald Dragon (Yu Zhong) <br>
+    Emerald Dragon (Yu Zhong)
 
-    Yin-yang Mage (Luo Yi) <br>
+    Yin-yang Mage (Luo Yi)
 
-    Tenko (Luo Yi) <br>
+    Tenko (Luo Yi)
 
-    Honor Blade (Benedetta) <br>
+    Honor Blade (Benedetta)
 
-    Prince of Sand (Khaleed) <br>
+    Prince of Sand (Khaleed)
 
-    Crescent Scimitar (Khaleed) <br>
+    Crescent Scimitar (Khaleed)
 
-    Desert Scavenger (Khaleed) <br>
+    Desert Scavenger (Khaleed)
 
-    Armored Lizard (Barats) <br>
+    Armored Lizard (Barats)
 
-    Toy Rex (Barats) <br>
+    Toy Rex (Barats)
 
-    War Chief (Barats) <br>
+    War Chief (Barats)
 
-    Nameless Stray (Brody) <br>
+    Nameless Stray (Brody)
 
-    Forest Hymn (Yve) <br>
+    Forest Hymn (Yve)
 
-    Unrestrained Delight (Mathilda) <br>
+    Unrestrained Delight (Mathilda)
 
-    Death Brow (Paquito) <br>
+    Death Brow (Paquito)
 
-    Verdant Enchanter (Gloo) <br>
+    Verdant Enchanter (Gloo)
 
-    X Factor (Beatrix) <br>
+    X Factor (Beatrix)
 
-    Blitz Attack (Beatrix) <br>
+    Blitz Attack (Beatrix)
 
-    Monolith Watcher (Phoveus) <br>
+    Monolith Watcher (Phoveus)
 
-    Time Wielder (Natan) <br>
+    Time Wielder (Natan)
 
-    Chaos Hunter (Natan) <br>
+    Chaos Hunter (Natan)
 
-    Berserker (Aulus) <br>
+    Berserker (Aulus)
 
-    Ironmaniac Reaver (Aulus) <br>
+    Ironmaniac Reaver (Aulus)
 
-    Noble Crest (Aamon) <br>
+    Noble Crest (Aamon)
 
-    Celestial Safeguard (Edith) <br>
+    Celestial Safeguard (Edith)
 
-    Springtide (Floryn) <br>
+    Springtide (Floryn)
 
-    Paw Power (Floryn) <br>
+    Paw Power (Floryn)
 
-    Twinge Weaver (Melissa) <br>
+    Twinge Weaver (Melissa)
 
-    Verdict of Light (Xavier) <br>
+    Verdict of Light (Xavier)
 
-    Silent Edge (Julian) <br>
+    Silent Edge (Julian)
 
-    Regal Renegade (Fredrinn) <br>
+    Regal Renegade (Fredrinn)
 
-    Jewel Connoisseur (Fredrinn) <br>
+    Jewel Connoisseur (Fredrinn)
 
-    Feline Ranger (Joy) <br>
+    Feline Ranger (Joy)
 
-    Royal Protector (Joy) <br>
+    Royal Protector (Joy)
 
-    Void Star (Novaria) <br>
+    Void Star (Novaria)
 
-    Shifting Sand (Ixia) <br>
+    Shifting Sand (Ixia)
 
-    Voidwalker (Nolan) <br>
+    Voidwalker (Nolan)
 
-    Whimsical Carnival (Cici) <br>
+    Whimsical Carnival (Cici)
 
-    Nexus Engineer (Chip) <br>
+    Nexus Engineer (Chip)
 
-    Badlands Hooligan (Chip) <br>
+    Badlands Hooligan (Chip)
 
-    Ethereal Serenity (Zhuxin) <br>
+    Ethereal Serenity (Zhuxin)
 
-    Venerated Vigilance (Suyou) <br>
+    Venerated Vigilance (Suyou)
 
-    Ardent Roar (Lukas) <br>
+    Ardent Roar (Lukas)
 
-    Shimmering Waves (Kalea) <br>
+    Shimmering Waves (Kalea)
 
 </details>
 
 <details>
 <summary><strong>🎨 Painted Skin (37 Skins)</strong></summary>
 
-    Raging Hunter (Roger) <br>
+    Raging Hunter (Roger)
 
-    Ice Spike (Irithel) <br>
+    Ice Spike (Irithel)
 
-    Hound of Steel (Saber) <br>
+    Hound of Steel (Saber)
 
-    Midnight Waltz (Layla) <br>
+    Midnight Waltz (Layla)
 
-    Street King (Sun) <br>
+    Street King (Sun)
 
-    Wisdom of Hearts (Odette) <br>
+    Wisdom of Hearts (Odette)
 
-    Demon Seer (Hylos) <br>
+    Demon Seer (Hylos)
 
-    Terran Deviant (Zhask) <br>
+    Terran Deviant (Zhask)
 
-    Death's Harbinger (Zhask) <br>
+    Death's Harbinger (Zhask)
 
-    Phantom Powder (Helcurt) <br>
+    Phantom Powder (Helcurt)
 
-    Royal Spider (Gusion) <br>
+    Royal Spider (Gusion)
 
-    Sanctified Inferno (Thamuz) <br>
+    Sanctified Inferno (Thamuz)
 
-    Radiant Lion (Ministhar) <br>
+    Radiant Lion (Ministhar)
 
-    Magitech Blaster (Lylia) <br>
+    Magitech Blaster (Lylia)
 
-    Classroom Charm (Silvanna) <br>
+    Classroom Charm (Silvanna)
 
-    Proto Striker (Popol & Kupa) <br>
+    Proto Striker (Popol & Kupa)
 
-    Digital Enchantress (Valentina) <br>
+    Digital Enchantress (Valentina)
 
-    Golden Warden (Edith) <br>
+    Golden Warden (Edith)
 
-    Immortal Guardian (Yin) <br>
+    Immortal Guardian (Yin)
 
-    Cursewalker (Melissa) <br>
+    Cursewalker (Melissa)
 
-    Lightwave Artificer (Xavier) <br>
+    Lightwave Artificer (Xavier)
 
-    Exosstar Runner (Joy) <br>
+    Exosstar Runner (Joy)
 
-    Scorn of the Deep (Arlott) <br>
+    Scorn of the Deep (Arlott)
 
-    Fashion Tycoon (Nolan) <br>
+    Fashion Tycoon (Nolan)
 
-    Circus Fantasy (Cici) <br>
+    Circus Fantasy (Cici)
 
-    Soulwisp Mystic (Zhuxin) <br>
+    Soulwisp Mystic (Zhuxin)
 
-    Rogue Mamba (Natalia) <br>
+    Rogue Mamba (Natalia)
 
-    Tactical Specialist (Yi Sun-shin) <br>
+    Tactical Specialist (Yi Sun-shin)
 
-    Imperial Soldier (Lapu-Lapu) <br>
+    Imperial Soldier (Lapu-Lapu)
 
-    Malediction (Argus) <br>
+    Malediction (Argus)
 
-    Fire Crystal (Thamuz) <br>
+    Fire Crystal (Thamuz)
 
 </details>
 🎮 Koleksi Lainnya
 
-    Efek Recall (26) <br>
+    Efek Recall (26)
 
-    Efek Eliminasi (3) <br>
+    Efek Eliminasi (3)
 
-    Sacred Statue (66) <br>
+    Sacred Statue (66)
 
-    Notifikasi (10) <br>
+    Notifikasi (10)
 
-    Efek Spawn (34) <br>
+    Efek Spawn (34)
 
-    Efek Trail (30) <br>
+    Efek Trail (30)
 
-    Battle Emote (261) <br>
+    Battle Emote (261)
 
-    Aksi Khusus (30) <br>
+    Aksi Khusus (30)
 
-    Avatar Border (142) <br>
+    Avatar Border (142)
