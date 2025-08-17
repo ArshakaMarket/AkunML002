@@ -1,7 +1,7 @@
 <p align="center">
 <h1><strong>Informasi Akun: DHaqi</strong></h1>
 </p>
-![Header Akun](https://drive.google.com/uc?export=view&id=1wzx9DKXzqYrbpt4TLwmd3GbbuXwGNEkt)
+![Header Akun](https://drive.google.com/uc?export=view&id=143_MFnilwv3v-tWDQuwiQRVcbRkSEHtj)
 📋 Ringkasan Akun
 
 <table align="center">
