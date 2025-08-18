@@ -1002,7 +1002,8 @@
     Fire Crystal (Thamuz)
 
 </details>
-🎮 Koleksi Lainnya
+<details>
+<summary><strong>🎮 Koleksi Lainnya</strong></summary>
 
     Efek Recall (26)
 
@@ -1021,3 +1022,6 @@
     Aksi Khusus (30)
 
     Avatar Border (142)
+</details>
+Full Record<br>
+https://drive.google.com/file/d/1tkfivMDk0mlG3tyfZxjtWl9emNhhqWIQ/view?usp=drive_link
